@@ -249,7 +249,9 @@ Registered Air Mail 15-20 business days
 JLCPCB supported Payment method.
 
 •	PayPal
+
 •	Credit/Debit Care
+
 •	Prepaid wire transfer
 
 
